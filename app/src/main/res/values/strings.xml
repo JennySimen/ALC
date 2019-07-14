@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_web">Web</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
